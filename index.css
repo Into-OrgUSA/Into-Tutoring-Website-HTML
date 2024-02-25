@@ -714,12 +714,12 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text14 {
+.home-text16 {
   font-size: 56px;
   font-style: normal;
   font-weight: 600;
 }
-.home-text15 {
+.home-text17 {
   font-size: 18px;
   max-width: 385px;
   line-height: 27px;
@@ -899,7 +899,7 @@
   max-width: 600px;
   line-height: 27px;
 }
-.home-text17 {
+.home-text19 {
   font-style: normal;
   font-weight: 600;
   line-height: 24px;
@@ -944,7 +944,7 @@
   max-width: 600px;
   line-height: 27px;
 }
-.home-text18 {
+.home-text20 {
   font-style: normal;
   font-weight: 600;
   line-height: 24px;
@@ -1066,13 +1066,13 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text23 {
+.home-text25 {
   font-size: 56px;
   max-width: 385px;
   font-style: normal;
   font-weight: 600;
 }
-.home-text24 {
+.home-text26 {
   font-size: 18px;
   max-width: 385px;
   line-height: 27px;
@@ -1103,18 +1103,6 @@
   align-items: center;
   justify-content: center;
   grid-template-columns: repeat(10, minmax(60px, 1fr));
-}
-.home-text25 {
-  font-size: 20px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 600;
-}
-.home-text26 {
-  font-size: 20px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 600;
 }
 .home-text27 {
   font-size: 20px;
@@ -1261,6 +1249,18 @@
   font-weight: 600;
 }
 .home-text51 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 600;
+}
+.home-text52 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 600;
+}
+.home-text53 {
   max-width: 700px;
   line-height: 24px;
 }
@@ -1301,12 +1301,12 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text52 {
+.home-text54 {
   font-size: 30px;
   font-style: normal;
   font-weight: 600;
 }
-.home-text53 {
+.home-text55 {
   max-width: 700px;
   line-height: 24px;
 }
@@ -1327,18 +1327,6 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.home-text54 {
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 600;
-  white-space: nowrap;
-}
-.home-text55 {
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 600;
-  white-space: nowrap;
-}
 .home-text56 {
   font-style: normal;
   font-family: Inter;
@@ -1357,13 +1345,6 @@
   font-weight: 600;
   white-space: nowrap;
 }
-.home-row1 {
-  gap: var(--dl-space-space-unit);
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: flex-start;
-}
 .home-text59 {
   font-style: normal;
   font-family: Inter;
@@ -1375,6 +1356,13 @@
   font-family: Inter;
   font-weight: 600;
   white-space: nowrap;
+}
+.home-row1 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
 }
 .home-text61 {
   font-style: normal;
@@ -1394,13 +1382,6 @@
   font-weight: 600;
   white-space: nowrap;
 }
-.home-row2 {
-  gap: var(--dl-space-space-unit);
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: flex-start;
-}
 .home-text64 {
   font-style: normal;
   font-family: Inter;
@@ -1412,6 +1393,13 @@
   font-family: Inter;
   font-weight: 600;
   white-space: nowrap;
+}
+.home-row2 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
 }
 .home-text66 {
   font-style: normal;
@@ -1426,6 +1414,18 @@
   white-space: nowrap;
 }
 .home-text68 {
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.home-text69 {
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.home-text70 {
   font-style: normal;
   font-family: Inter;
   font-weight: 600;
@@ -1452,14 +1452,14 @@
   align-items: center;
   flex-direction: column;
 }
-.home-text69 {
+.home-text71 {
   font-size: 56px;
   max-width: 600px;
   font-style: normal;
   text-align: center;
   font-weight: 600;
 }
-.home-text70 {
+.home-text72 {
   font-size: 18px;
   max-width: 700px;
   text-align: center;
@@ -1480,13 +1480,13 @@
   flex-direction: row;
   justify-content: center;
 }
-.home-text71 {
+.home-text73 {
   font-style: normal;
   font-family: Inter;
   font-weight: 600;
   white-space: nowrap;
 }
-.home-text72 {
+.home-text74 {
   font-style: normal;
   font-family: Inter;
   font-weight: 600;
@@ -1523,7 +1523,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text73 {
+.home-text75 {
   font-size: 10px;
   max-width: 700px;
   text-align: left;
@@ -1540,18 +1540,18 @@
 .home-book6 {
   width: 100%;
 }
-.home-text75 {
+.home-text77 {
   font-size: 10px;
   max-width: 700px;
   text-align: left;
   line-height: 15px;
 }
-.home-text77 {
+.home-text79 {
   color: #2461ff;
   font-style: normal;
   font-weight: 600;
 }
-.home-text79 {
+.home-text81 {
   color: #2461ff;
   font-style: normal;
   font-weight: 600;
@@ -1574,14 +1574,14 @@
   align-items: center;
   flex-direction: column;
 }
-.home-text81 {
+.home-text83 {
   font-size: 56px;
   max-width: 600px;
   font-style: normal;
   text-align: center;
   font-weight: 600;
 }
-.home-text82 {
+.home-text84 {
   font-size: 18px;
   max-width: 700px;
   text-align: center;
@@ -1641,14 +1641,14 @@
   align-items: center;
   flex-direction: column;
 }
-.home-text84 {
+.home-text86 {
   font-size: 56px;
   max-width: 600px;
   font-style: normal;
   text-align: center;
   font-weight: 600;
 }
-.home-text85 {
+.home-text87 {
   font-size: 18px;
   max-width: 700px;
   text-align: center;
@@ -1708,7 +1708,7 @@
   font-style: normal;
   font-weight: 500;
 }
-.home-text86 {
+.home-text88 {
   color: rgb(255, 255, 255);
   font-style: normal;
   font-weight: 600;
@@ -1764,7 +1764,7 @@
   font-style: normal;
   font-weight: 500;
 }
-.home-text87 {
+.home-text89 {
   color: #000000;
   font-style: normal;
   font-weight: 600;
@@ -1820,7 +1820,7 @@
   font-style: normal;
   font-weight: 500;
 }
-.home-text88 {
+.home-text90 {
   color: #000000;
   font-style: normal;
   font-weight: 600;
@@ -1860,7 +1860,7 @@
   padding-bottom: 120px;
   justify-content: center;
 }
-.home-text89 {
+.home-text91 {
   font-size: 40px;
   max-width: 600px;
   font-style: normal;
@@ -1914,7 +1914,7 @@
   width: 165px;
   object-fit: cover;
 }
-.home-text92 {
+.home-text94 {
   color: rgb(255, 255, 255);
   font-size: 14px;
   line-height: 21px;
@@ -2170,6 +2170,9 @@
   .home-header07 {
     max-width: 75%;
   }
+  .home-text13 {
+    max-width: 75%;
+  }
   .home-caption6 {
     max-width: 75%;
   }
@@ -2252,11 +2255,11 @@
   .home-heading14 {
     align-items: center;
   }
-  .home-text23 {
+  .home-text25 {
     max-width: 100%;
     text-align: center;
   }
-  .home-text24 {
+  .home-text26 {
     text-align: center;
   }
   .home-content08 {
@@ -2277,7 +2280,7 @@
     padding-left: var(--dl-space-space-fiveunits);
     padding-right: var(--dl-space-space-fiveunits);
   }
-  .home-text51 {
+  .home-text53 {
     text-align: center;
   }
   .home-type-two {
@@ -2286,10 +2289,10 @@
   .home-heading16 {
     align-items: center;
   }
-  .home-text52 {
+  .home-text54 {
     text-align: center;
   }
-  .home-text53 {
+  .home-text55 {
     text-align: center;
   }
   .home-symptoms {
@@ -2436,6 +2439,11 @@
     max-width: 70%;
     line-height: 38px;
   }
+  .home-text13 {
+    font-size: 32px;
+    max-width: 70%;
+    line-height: 38px;
+  }
   .home-caption6 {
     font-size: 16px;
     max-width: 70%;
@@ -2454,11 +2462,11 @@
   .home-heading08 {
     gap: var(--dl-space-space-unit);
   }
-  .home-text14 {
+  .home-text16 {
     font-size: 30px;
     line-height: 36px;
   }
-  .home-text15 {
+  .home-text17 {
     font-size: 14px;
     line-height: 21px;
   }
@@ -2575,11 +2583,11 @@
   .home-heading14 {
     gap: var(--dl-space-space-unit);
   }
-  .home-text23 {
+  .home-text25 {
     font-size: 30px;
     line-height: 36px;
   }
-  .home-text24 {
+  .home-text26 {
     font-size: 14px;
     max-width: 80%;
     line-height: 21px;
@@ -2602,10 +2610,10 @@
   .home-heading17 {
     gap: var(--dl-space-space-unit);
   }
-  .home-text69 {
+  .home-text71 {
     font-size: 24px;
   }
-  .home-text70 {
+  .home-text72 {
     font-size: 14px;
     max-width: 80%;
     line-height: 21px;
@@ -2630,10 +2638,10 @@
     gap: var(--dl-space-space-unit);
     padding-right: 0px;
   }
-  .home-text81 {
+  .home-text83 {
     font-size: 24px;
   }
-  .home-text82 {
+  .home-text84 {
     font-size: 14px;
     max-width: 80%;
   }
@@ -2658,11 +2666,11 @@
   .home-heading19 {
     gap: var(--dl-space-space-unit);
   }
-  .home-text84 {
+  .home-text86 {
     font-size: 30px;
     line-height: 36px;
   }
-  .home-text85 {
+  .home-text87 {
     font-size: 14px;
     max-width: 80%;
     line-height: 21px;
@@ -2694,7 +2702,7 @@
     padding-right: var(--dl-space-space-oneandhalfunits);
     padding-bottom: var(--dl-space-space-threeunits);
   }
-  .home-text89 {
+  .home-text91 {
     max-width: 500px;
   }
   .home-buttons {
@@ -2716,7 +2724,7 @@
   .home-image32 {
     width: 110px;
   }
-  .home-text92 {
+  .home-text94 {
     font-size: 12px;
     line-height: 18px;
   }
@@ -2732,6 +2740,9 @@
     padding-right: var(--dl-space-space-oneandhalfunits);
   }
   .home-header07 {
+    max-width: 80%;
+  }
+  .home-text13 {
     max-width: 80%;
   }
   .home-caption6 {
